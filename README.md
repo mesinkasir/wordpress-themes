@@ -30,8 +30,6 @@ Responsife display
 
 Easy to design just play with widget
 
-![free download source code full untuk tema template wordpress.]()
-
 
 -------------------------------------------
 
@@ -40,8 +38,16 @@ How to Install & Documentation : [https://www.hockeycomputindo.com/2021/12/new-w
 test drive demo : [https://axcora.my.id/wordpress/](https://axcora.my.id/wordpress/)
 
 
+-------------------------------------------
 
+### Buy me a coffee ☕️ ❤️  ✌🏻 
 
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
 
 
 
