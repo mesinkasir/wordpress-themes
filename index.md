@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# WORDPRESS SEO THEMES
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/wordpress-themes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Free download source code full untuk tema template wordpress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How to Install & Documentation : [https://www.hockeycomputindo.com/2021/12/new-wordpress-seo-template-themes.html](https://www.hockeycomputindo.com/2021/12/new-wordpress-seo-template-themes.html)
 
-### Markdown
+test drive demo : [https://axcora.my.id/wordpress/](https://axcora.my.id/wordpress/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![free download source code full untuk tema template wordpress.](https://1.bp.blogspot.com/-bxXUQdcyoYE/YbLZYuCJ0LI/AAAAAAAASNU/4tjsAH-MBewpgoOkwPxKPW_1SN7vfTNVACNcBGAsYHQ/s1920/tema%2Bwordpress%2BSEO%2Bthemes%2Btemplate%2Bfree%2Bdownload%2Bsource%2Bcode%2Bgratis%2B%25281%2529.png)
 
-# Header 1
-## Header 2
-### Header 3
+Simple just play with widget
 
-- Bulleted
-- List
+![free download source code full untuk tema template wordpress.](https://1.bp.blogspot.com/-jmEIYHfkhdU/YbLZYed48RI/AAAAAAAASNQ/OuT5KT51p9ci9uMVKa9BuIQt7Vcxqlj7wCNcBGAsYHQ/s2685/tema%2Bwordpress%2BSEO%2Bthemes%2Btemplate%2Bfree%2Bdownload%2Bsource%2Bcode%2Bgratis%2B%25281%2529.jpeg)
 
-1. Numbered
-2. List
+Home page display
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![free download source code full untuk tema template wordpress.](https://1.bp.blogspot.com/-J2iiVr31nCo/YbLZaBmyqVI/AAAAAAAASNg/6XSPvsMQPg8iOrwdRQUjFf_asrhNviwewCNcBGAsYHQ/s2524/tema%2Bwordpress%2BSEO%2Bthemes%2Btemplate%2Bfree%2Bdownload%2Bsource%2Bcode%2Bgratis%2B%25282%2529.jpeg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Blog page display
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/wordpress-themes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![free download source code full untuk tema template wordpress.](https://1.bp.blogspot.com/-dhPaKcXm4ZQ/YbLZaFYXutI/AAAAAAAASNk/Tv6yPRmMhL401Fwou7M9DXJf9nLjL31GwCNcBGAsYHQ/s677/tema%2Bwordpress%2BSEO%2Bthemes%2Btemplate%2Bfree%2Bdownload%2Bsource%2Bcode%2Bgratis%2B%25282%2529.png)
 
-### Support or Contact
+Responsife display
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![free download source code full untuk tema template wordpress.](https://1.bp.blogspot.com/-jzen4vAGZxQ/YbLZeZwEN4I/AAAAAAAASOQ/mltiFBGYW_AIyXLTzP5heYg17MsfJgYwACNcBGAsYHQ/s1366/tema%2Bwordpress%2BSEO%2Bthemes%2Btemplate%2Bfree%2Bdownload%2Bsource%2Bcode%2Bgratis%2B%25289%2529.png)
+
+Easy to design just play with widget
+
+
+-------------------------------------------
+
+How to Install & Documentation : [https://www.hockeycomputindo.com/2021/12/new-wordpress-seo-template-themes.html](https://www.hockeycomputindo.com/2021/12/new-wordpress-seo-template-themes.html)
+
+test drive demo : [https://axcora.my.id/wordpress/](https://axcora.my.id/wordpress/)
+
+
+-------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
